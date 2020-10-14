@@ -5,7 +5,7 @@
       </style>
     `;
 
-    customElements.define('net.sapbw.ProcessFlow', class WidgetTemplate extends HTMLElement {
+    customElements.define('net-sapbw-ProcessFlow', class WidgetTemplate extends HTMLElement {
 
 
 		constructor() {
