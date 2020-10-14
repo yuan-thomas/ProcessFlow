@@ -11,8 +11,8 @@
 	"webcomponents": [
       {
       "kind": "main",
-      "tag": "com-fd-djaja-sap-sac-inputpassword",
-      "url": "http://localhost/SAC/sacinputpassword/inputpassword.js",
+      "tag": "net.sapbw.ProcessFlow",
+      "url": "https://github.com/yuan-thomas/ProcessFlow/webcomponent.js",
       "integrity": "",
       "ignoreIntegrity": true
       }
